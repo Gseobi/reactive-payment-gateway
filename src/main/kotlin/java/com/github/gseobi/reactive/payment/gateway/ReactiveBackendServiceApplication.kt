@@ -1,4 +1,4 @@
-package java.com.github.gseobi.reactive.backend.service
+package java.com.github.gseobi.reactive.payment.gateway
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

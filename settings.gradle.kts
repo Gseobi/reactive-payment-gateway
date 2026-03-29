@@ -1,1 +1,1 @@
-rootProject.name = "reactive-backend-service"
+rootProject.name = "reactive-payment-gateway"

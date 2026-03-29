@@ -1,4 +1,4 @@
-package java.com.github.gseobi.reactive.backend.service
+package java.com.github.gseobi.reactive.payment.gateway
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

@@ -6,9 +6,9 @@ plugins {
     id("org.asciidoctor.jvm.convert") version "4.0.5"
 }
 
-group = "java.com.github.gseobi.reactive.backend.service"
+group = "java.com.github.gseobi.reactive.payment.gateway"
 version = "0.0.1-SNAPSHOT"
-description = "reactive-backend-service"
+description = "reactive-payment-gateway"
 
 java {
     toolchain {
